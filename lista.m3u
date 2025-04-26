@@ -1,44 +1,52 @@
 #EXTM3U
 #EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
-#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="http://xp2.wtf:80/images/41648ed37ea162c88f1f5716a6aab728.jpg" group-title="⚡24H SÉRIES",24 HORAS
-http://tvhdbalck.pro:80/carlos10/102030/3241203.ts
-#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="https://i.imgur.com/o7FKRtx.png" group-title="⚡24H DESENHOS",3 PALAVRINHAS
-http://tvhdbalck.pro:80/carlos10/102030/1374531.ts
-#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS 02" tvg-logo="https://i.imgur.com/o7FKRtx.png" group-title="⚡24H DESENHOS",3 PALAVRINHAS 02
-http://tvhdbalck.pro:80/carlos10/102030/2740636.ts
-#EXTINF:-1 tvg-id="" tvg-name="44 GATOS" tvg-logo="https://i.imgur.com/AVzEptv.jpeg" group-title="⚡24H DESENHOS",44 GATOS
-http://tvhdbalck.pro:80/carlos10/102030/1374532.ts
-#EXTINF:-1 tvg-id="" tvg-name="A CASA DA RAVEN" tvg-logo="http://xp2.wtf:80/images/a66ece319873a47d8eace3055cfc3cd1.png" group-title="⚡24H SÉRIES",A CASA DA RAVEN
-http://tvhdbalck.pro:80/carlos10/102030/3241204.ts
-#EXTINF:-1 tvg-id="" tvg-name="A CASA MAGICA DA GABBY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/QSAGhR.png" group-title="⚡24H DESENHOS",A CASA MAGICA DA GABBY
-http://tvhdbalck.pro:80/carlos10/102030/2740638.ts
-#EXTINF:-1 tvg-id="" tvg-name="A CORRIDA MALUCA" tvg-logo="http://xp2.wtf:80/images/5996b6ea12e084f22dd1c8ebfcedb8c9.png" group-title="⚡24H DESENHOS",A CORRIDA MALUCA
-http://tvhdbalck.pro:80/carlos10/102030/3241177.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FAMILIA ADANS" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/XNdCuz.png" group-title="⚡24H DESENHOS",A FAMILIA ADANS
-http://tvhdbalck.pro:80/carlos10/102030/2740639.ts
-#EXTINF:-1 tvg-id="" tvg-name="A FORMIGA E O TAMANDUA" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/kNabMF.png" group-title="⚡24H DESENHOS",A FORMIGA E O TAMANDUA
-http://tvhdbalck.pro:80/carlos10/102030/2740640.ts
-#EXTINF:-1 tvg-id="" tvg-name="A MULHER BIÔNICA" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/83Zxeq.png" group-title="⚡24H SÉRIES",A MULHER BIÔNICA
-http://tvhdbalck.pro:80/carlos10/102030/2740642.ts
-#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA" tvg-logo="https://4.bp.blogspot.com/-wMxtQXyabR0/VzJGNPP__YI/AAAAAAABLMU/_TFkz1XeDpcc5-EO6jqxbXuxLByX3tqIQCLcB/s1600/pantera-cor-de-rosa-colorir-pintar-imprimir-desenho-imagem-molde-risco-pink-panther-coloring-pages-dibujos-www.espacoeducar-colorir.com%2B%25281%2529.png" group-title="⚡24H DESENHOS",A PANTERA COR DE ROSA
-http://tvhdbalck.pro:80/carlos10/102030/2740749.ts
-#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="https://imagizer.imageshack.com/img924/5528/NoVrRE.png" group-title="⚡24H DESENHOS",A PEQUENA SEREIA
-http://tvhdbalck.pro:80/carlos10/102030/2740644.ts
-#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO BAIRRO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/921/QNLR06.png" group-title="⚡24H DESENHOS",A TURMA DO BAIRRO
-http://tvhdbalck.pro:80/carlos10/102030/2740647.ts
-#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO DIDI" tvg-logo="https://i.imgur.com/XkQo9ob.jpeg" group-title="⚡24H SÉRIES",A TURMA DO DIDI
-http://tvhdbalck.pro:80/carlos10/102030/4136855.ts
-#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO MANDA CHUVA" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/uow6Mh.png" group-title="⚡24H DESENHOS",A TURMA DO MANDA CHUVA
-http://tvhdbalck.pro:80/carlos10/102030/2740648.ts
-#EXTINF:-1 tvg-id="" tvg-name="A VACA E O FRANGO" tvg-logo="https://i.imgur.com/7yRPYua.jpeg" group-title="⚡24H DESENHOS",A VACA E O FRANGO
-http://tvhdbalck.pro:80/carlos10/102030/1374550.ts
-#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E 4K" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="⚡FILMES E SÉRIES",A&E 4K
-http://tvhdbalck.pro:80/carlos10/102030/369606.ts
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="⚡FILMES E SÉRIES",A&E FHD
-http://tvhdbalck.pro:80/carlos10/102030/260.ts
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="⚡FILMES E SÉRIES",A&E HD
-http://tvhdbalck.pro:80/carlos10/102030/261.ts
-#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="⚡FILMES E SÉRIES",A&E SD
-http://tvhdbalck.pro:80/carlos10/102030/262.ts
-#EXTINF:-1 tvg-id="ADSM" tvg-name="AGRO+ FHD" tvg-logo="" group-title="✨ABERTOS",AGRO+ FHD
-http://tvhdbalck.pro:80/carlos10/102030/6.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h 101 Dálmatas" tvg-logo="https://thumbs.dreamstime.com/b/editorial-de-cor-vetorial-do-filme-da-disney-dalmatianos-walt-picture-dalmatians-video-logo-isolada-preto-branco-e-vermelho-298597773.jpg" group-title="⌚ 24H DESENHOS",24h 101 Dálmatas
+http://fiufiu.live:80/jose14/123456/4128038.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h 3 Palavrinhas" tvg-logo="https://media4.giphy.com/avatars/3palavrinhas/j5QUKDWzhxkc.png" group-title="⌚ 24H DESENHOS",24h 3 Palavrinhas
+http://fiufiu.live:80/jose14/123456/4128039.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h A Família Addams" tvg-logo="https://www.agendadedanca.com.br/wp-content/uploads/2012/10/A-Familia-Addams-Logo-2.jpg" group-title="⌚ 24H DESENHOS",24h A Família Addams
+http://fiufiu.live:80/jose14/123456/4128040.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h A Formiga Atômica" tvg-logo="https://cdn-media.domestika.org/c_fill,dpr_1.0,f_auto,h_1200,pg_1,t_base_params,w_1200/v1592864316/project-covers/000/770/791/770791-original.png?1592864316" group-title="⌚ 24H DESENHOS",24h A Formiga Atômica
+http://fiufiu.live:80/jose14/123456/4128041.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h A Mansão Foster" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/4/49/A_Mans%C3%A3o_Foster_para_Amigos_Imagin%C3%A1rios.jpg.jpg/revision/latest?cb=20230417021521&path-prefix=pt-br" group-title="⌚ 24H DESENHOS",24h A Mansão Foster
+http://fiufiu.live:80/jose14/123456/4128043.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h A Pantera Cor de Rosa" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS4rdO4k3EHbEn0osvdkrZHBfh_f2b198NHsQ&s" group-title="⌚ 24H DESENHOS",24h A Pantera Cor de Rosa
+http://fiufiu.live:80/jose14/123456/4128044.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h A Patrulha Canina" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrhJ2VM4O2bQWM3NXxRKmieqweD6XbHIcBgtcumtSLU8pXeLzzLu9blDz9EMm6c1ssv2s&usqp=CAU" group-title="⌚ 24H DESENHOS",24h A Patrulha Canina
+http://fiufiu.live:80/jose14/123456/4128045.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h A Vaca e o Frango" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/0/0b/Vaca-e-frango_poster.jpg/revision/latest?cb=20240214033957&path-prefix=pt-br" group-title="⌚ 24H DESENHOS",24h A Vaca e o Frango
+http://fiufiu.live:80/jose14/123456/4128046.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Aladdin" tvg-logo="https://i.pinimg.com/736x/bc/d5/58/bcd5585221f4de5fe665c8b07a7afb71.jpg" group-title="⌚ 24H DESENHOS",24h Aladdin
+http://fiufiu.live:80/jose14/123456/4128047.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Animaniacs" tvg-logo="https://i.pinimg.com/736x/76/36/2a/76362a4bc386c2f73b29e1cc9617ee4a.jpg" group-title="⌚ 24H DESENHOS",24h Animaniacs
+http://fiufiu.live:80/jose14/123456/4128048.ts
+#EXTINF:-1 tvg-id="24HProgramasdeTV" tvg-name="24H AREA RESTRITA AEROPORTO" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/rd0wE9.png" group-title="⌚ 24H PROGRAMAS DE TV",24H AREA RESTRITA AEROPORTO
+http://fiufiu.live:80/jose14/123456/4116798.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Arqueiro Verde" tvg-logo="https://provollonecast.wordpress.com/wp-content/uploads/2016/09/arqueiroverde2.png" group-title="⌚ 24H DESENHOS",24h Arqueiro Verde
+http://fiufiu.live:80/jose14/123456/4128049.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h As Aventuras de Tintin" tvg-logo="https://static.wikia.nocookie.net/dublagem/images/6/63/Tintim.jpg/revision/latest/scale-to-width-down/1200?cb=20240623151337&path-prefix=pt-br" group-title="⌚ 24H DESENHOS",24h As Aventuras de Tintin
+http://fiufiu.live:80/jose14/123456/4128050.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h As Meninas Super Poderosas" tvg-logo="https://www.nicelembrancinhas.com.br/image/cache/catalog/MENINAS%20SUPER%20PODEROSAS/MENINAS%20LOGO%20%209CM-650x650.png" group-title="⌚ 24H DESENHOS",24h As Meninas Super Poderosas
+http://fiufiu.live:80/jose14/123456/4128051.ts
+#EXTINF:-1 tvg-id="" tvg-name="24H As Panteras (Clássico)" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/Amo2qq.png" group-title="⌚ 24H SERIES",24H As Panteras (Clássico)
+http://fiufiu.live:80/jose14/123456/4127292.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Avatar a Lenda de Aang" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS3-VdxE_jzTxqxM-0Z56BfH3AKEpN8VWUsbQ&s" group-title="⌚ 24H DESENHOS",24h Avatar a Lenda de Aang
+http://fiufiu.live:80/jose14/123456/4128053.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Baby Looney Tunes" tvg-logo="https://a-static.mlcdn.com.br/1500x1500/boneco-baby-looney-tunes-pernalonga-angels-toys/lrbrinquedos/6112p/bf246fd948a598446281cb9f9b600c21.jpeg" group-title="⌚ 24H DESENHOS",24h Baby Looney Tunes
+http://fiufiu.live:80/jose14/123456/4128054.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h BACKARDIGANS" tvg-logo="https://i.pinimg.com/736x/a2/12/d3/a212d378539da92631ee69fd76df0252.jpg" group-title="⌚ 24H DESENHOS",24h BACKARDIGANS
+http://fiufiu.live:80/jose14/123456/4128055.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Ben 10" tvg-logo="https://i.pinimg.com/236x/f1/96/c6/f196c641cfdd1ccb67ae4eee4bdeca66.jpg" group-title="⌚ 24H DESENHOS",24h Ben 10
+http://fiufiu.live:80/jose14/123456/4128056.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Beyblade" tvg-logo="https://static.wikia.nocookie.net/liberproeliis/images/d/de/5a.png/revision/latest?cb=20200524124033&path-prefix=pt-br" group-title="⌚ 24H DESENHOS",24h Beyblade
+http://fiufiu.live:80/jose14/123456/4128057.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Billy e Mandy" tvg-logo="https://m.media-amazon.com/images/M/MV5BN2FjZmVkNDEtNzQ5My00MDkyLTg0Y2ItYjhkOWJhNGVhYjJiXkEyXkFqcGc@._V1_FMjpg_UX1000_.jpg" group-title="⌚ 24H DESENHOS",24h Billy e Mandy
+http://fiufiu.live:80/jose14/123456/4128052.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Bob Esponja" tvg-logo="https://imgv2-2-f.scribdassets.com/img/document/474161675/original/d67968abe5/1?v=1" group-title="⌚ 24H DESENHOS",24h Bob Esponja
+http://fiufiu.live:80/jose14/123456/4128058.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h BOOBA" tvg-logo="https://static.wikia.nocookie.net/bluesunlight/images/c/c9/Bandicam_2021-09-25_09-57-32-310.jpg/revision/latest?cb=20210925085759" group-title="⌚ 24H DESENHOS",24h BOOBA
+http://fiufiu.live:80/jose14/123456/4128059.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h Cadillacs e Dinossauros" tvg-logo="https://acdn-us.mitiendanube.com/stores/002/021/308/products/cadillacs_and_dinosaurs_beat_em_up_capa1-9ef9e48d2d6edd4f9f16635606720153-640-0.jpg" group-title="⌚ 24H DESENHOS",24h Cadillacs e Dinossauros
+http://fiufiu.live:80/jose14/123456/4128060.ts
+#EXTINF:-1 tvg-id="" tvg-name="24h CAILLOU" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQrpKtq9mNKKmeUEzkTuFCf8IeaxmDykwTQwQ&s" group-title="⌚ 24H DESENHOS",24h CAILLOU
+http://fiufiu.live:80/jose14/123456/4128061.ts
