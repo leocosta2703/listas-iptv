@@ -1,0 +1,44 @@
+#EXTM3U
+#EXT-X-SESSION-DATA:DATA-ID="com.xui.1_5_5r2"
+#EXTINF:-1 tvg-id="" tvg-name="24 HORAS" tvg-logo="http://xp2.wtf:80/images/41648ed37ea162c88f1f5716a6aab728.jpg" group-title="⚡24H SÉRIES",24 HORAS
+http://tvhdbalck.pro:80/carlos10/102030/3241203.ts
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS" tvg-logo="https://i.imgur.com/o7FKRtx.png" group-title="⚡24H DESENHOS",3 PALAVRINHAS
+http://tvhdbalck.pro:80/carlos10/102030/1374531.ts
+#EXTINF:-1 tvg-id="" tvg-name="3 PALAVRINHAS 02" tvg-logo="https://i.imgur.com/o7FKRtx.png" group-title="⚡24H DESENHOS",3 PALAVRINHAS 02
+http://tvhdbalck.pro:80/carlos10/102030/2740636.ts
+#EXTINF:-1 tvg-id="" tvg-name="44 GATOS" tvg-logo="https://i.imgur.com/AVzEptv.jpeg" group-title="⚡24H DESENHOS",44 GATOS
+http://tvhdbalck.pro:80/carlos10/102030/1374532.ts
+#EXTINF:-1 tvg-id="" tvg-name="A CASA DA RAVEN" tvg-logo="http://xp2.wtf:80/images/a66ece319873a47d8eace3055cfc3cd1.png" group-title="⚡24H SÉRIES",A CASA DA RAVEN
+http://tvhdbalck.pro:80/carlos10/102030/3241204.ts
+#EXTINF:-1 tvg-id="" tvg-name="A CASA MAGICA DA GABBY" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/922/QSAGhR.png" group-title="⚡24H DESENHOS",A CASA MAGICA DA GABBY
+http://tvhdbalck.pro:80/carlos10/102030/2740638.ts
+#EXTINF:-1 tvg-id="" tvg-name="A CORRIDA MALUCA" tvg-logo="http://xp2.wtf:80/images/5996b6ea12e084f22dd1c8ebfcedb8c9.png" group-title="⚡24H DESENHOS",A CORRIDA MALUCA
+http://tvhdbalck.pro:80/carlos10/102030/3241177.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FAMILIA ADANS" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/922/XNdCuz.png" group-title="⚡24H DESENHOS",A FAMILIA ADANS
+http://tvhdbalck.pro:80/carlos10/102030/2740639.ts
+#EXTINF:-1 tvg-id="" tvg-name="A FORMIGA E O TAMANDUA" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/kNabMF.png" group-title="⚡24H DESENHOS",A FORMIGA E O TAMANDUA
+http://tvhdbalck.pro:80/carlos10/102030/2740640.ts
+#EXTINF:-1 tvg-id="" tvg-name="A MULHER BIÔNICA" tvg-logo="https://imagizer.imageshack.com/v2/640x480q70/923/83Zxeq.png" group-title="⚡24H SÉRIES",A MULHER BIÔNICA
+http://tvhdbalck.pro:80/carlos10/102030/2740642.ts
+#EXTINF:-1 tvg-id="" tvg-name="A PANTERA COR DE ROSA" tvg-logo="https://4.bp.blogspot.com/-wMxtQXyabR0/VzJGNPP__YI/AAAAAAABLMU/_TFkz1XeDpcc5-EO6jqxbXuxLByX3tqIQCLcB/s1600/pantera-cor-de-rosa-colorir-pintar-imprimir-desenho-imagem-molde-risco-pink-panther-coloring-pages-dibujos-www.espacoeducar-colorir.com%2B%25281%2529.png" group-title="⚡24H DESENHOS",A PANTERA COR DE ROSA
+http://tvhdbalck.pro:80/carlos10/102030/2740749.ts
+#EXTINF:-1 tvg-id="" tvg-name="A PEQUENA SEREIA" tvg-logo="https://imagizer.imageshack.com/img924/5528/NoVrRE.png" group-title="⚡24H DESENHOS",A PEQUENA SEREIA
+http://tvhdbalck.pro:80/carlos10/102030/2740644.ts
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO BAIRRO" tvg-logo="https://imagizer.imageshack.com/v2/100x75q90/921/QNLR06.png" group-title="⚡24H DESENHOS",A TURMA DO BAIRRO
+http://tvhdbalck.pro:80/carlos10/102030/2740647.ts
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO DIDI" tvg-logo="https://i.imgur.com/XkQo9ob.jpeg" group-title="⚡24H SÉRIES",A TURMA DO DIDI
+http://tvhdbalck.pro:80/carlos10/102030/4136855.ts
+#EXTINF:-1 tvg-id="" tvg-name="A TURMA DO MANDA CHUVA" tvg-logo="https://imagizer.imageshack.com/v2/320x240q90/922/uow6Mh.png" group-title="⚡24H DESENHOS",A TURMA DO MANDA CHUVA
+http://tvhdbalck.pro:80/carlos10/102030/2740648.ts
+#EXTINF:-1 tvg-id="" tvg-name="A VACA E O FRANGO" tvg-logo="https://i.imgur.com/7yRPYua.jpeg" group-title="⚡24H DESENHOS",A VACA E O FRANGO
+http://tvhdbalck.pro:80/carlos10/102030/1374550.ts
+#EXTINF:-1 tvg-id="a&e.br" tvg-name="A&E 4K" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="⚡FILMES E SÉRIES",A&E 4K
+http://tvhdbalck.pro:80/carlos10/102030/369606.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E FHD" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="⚡FILMES E SÉRIES",A&E FHD
+http://tvhdbalck.pro:80/carlos10/102030/260.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E HD" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="⚡FILMES E SÉRIES",A&E HD
+http://tvhdbalck.pro:80/carlos10/102030/261.ts
+#EXTINF:-1 tvg-id="Ae.br" tvg-name="A&E SD" tvg-logo="https://acstatic.co/logos/canais/a%26e.png" group-title="⚡FILMES E SÉRIES",A&E SD
+http://tvhdbalck.pro:80/carlos10/102030/262.ts
+#EXTINF:-1 tvg-id="ADSM" tvg-name="AGRO+ FHD" tvg-logo="" group-title="✨ABERTOS",AGRO+ FHD
+http://tvhdbalck.pro:80/carlos10/102030/6.ts
